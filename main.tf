@@ -15,12 +15,12 @@ tags = {
 
 variable "ami" {
   type = string
-  default = "ami-0f8e81a3da6e2510a"
+  default = "ami-0f8e81a3da6e2510aa"
 }
 
 variable "inst" {
   type = string
-  default = "t2.micror"
+  default = "t2.micrors"
 }
 variable "name" {
   type = string
